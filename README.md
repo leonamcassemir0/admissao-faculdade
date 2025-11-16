@@ -54,12 +54,12 @@ Após o modelo treinado e testado, utilizei as principais métricas de avaliaç�
 | **Positivo** | 13       | 12       |
 | **Negativo** | 14       | 261      | 
 
-</br>
-
+## Conclusão
 <div align=center>
 <img src="https://github.com/leonamcassemir0/admissao-faculdade/blob/main/nice-smack.gif">
 </div>
 
-## Conclusão
+</br>
+
 Como um dos meus primeiros modelos criados sozinho, gostei bastante dele. Como pode ver, é um modelo básico, mas com muito aprendizado.</br>
 Aprendi a como implementar uma árvore de decisão, como tratar dados discrepantes, como analisar colunas e como utilizar as principais bibliotecas para realizar o modelo da melhor forma possível. Fique à vontade para ver o notebook e analisar o código digitado, até mais! <3
